@@ -8,4 +8,4 @@ https://public.tableau.com/views/CO2Emissionstory_16814458937390/Story1?:languag
 
 
 Video Demonstration link-
-https://drive.google.com/file/d/1zuOvH8x38XVGj2iHkgNbJauLxEtgSwUg/view?usp=share_link
+https://drive.google.com/file/d/1zuOvH8x38XVGj2iHkgNbJauLxEtgSwUg/view?usp=sharing
